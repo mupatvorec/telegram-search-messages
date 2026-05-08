@@ -1,0 +1,41 @@
+# Список чатов для мониторинга
+# По одному на строку. Строки с # — комментарии.
+
+# Каналы (по username)
+http://t.me/c/1230280077
+http://t.me/UI_UX_web
+http://t.me/freelance_chat_ru
+http://t.me/networking_zavtrak
+http://t.me/freeassistant
+http://t.me/SaferoStreamFlood
+http://t.me/web_structure
+http://t.me/rabota_chatt
+http://t.me/Chat_Denver_RusRek
+http://t.me/designchat2
+http://t.me/newfrelans
+http://t.me/rabota_chatt
+http://t.me/profiwork
+http://t.me/ydalenna800
+http://t.me/mari_vakansii
+http://t.me/freelance_in_telegram
+http://t.me/freelance_birzha
+http://t.me/o0nbs
+http://t.me/freelance_in_telegram
+http://t.me/Ishchu_Rabotu
+http://t.me/infobizz1
+http://t.me/uxcoffee
+http://t.me/mari_vakansii
+http://t.me/freelancenolimit
+http://t.me/frilans_chatik
+http://t.me/freeassistant
+http://t.me/udalenka_chatt
+http://t.me/newfrelans
+http://t.me/Freelaceworkchat
+http://t.me/lzt_service
+http://t.me/freelance_birzha
+http://t.me/advtusa
+http://t.me/edmarketclubjob
+http://t.me/freelance_rabota_chat
+http://t.me/theretrochat
+
+
